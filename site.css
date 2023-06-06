@@ -27,5 +27,5 @@ h4 {background-color: blueviolet;
     padding: 10px;}
 a {color: rgb(2, 19, 170); 
     text-decoration: none;}
-a:hover {color: rgb(0, 0, 0);}
+a:hover {color: rgb(0, 0, 0); text-decoration: underline;}
 a:visited {color: coral;}
